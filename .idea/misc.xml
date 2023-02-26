@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/emang/AndroidStudioProjects/AutoVideoPlayer/app/src/main/res/layout/activity_main.xml" value="0.16145833333333334" />
+        <entry key="..\:/Users/emang/AndroidStudioProjects/AutoVideoPlayer/app/src/main/res/layout/facebook_timeline_item_recycler_list.xml" value="0.17447916666666666" />
+        <entry key="..\:/Users/emang/AndroidStudioProjects/AutoVideoPlayer/app/src/main/res/layout/item_layout_image.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/emang/AndroidStudioProjects/AutoVideoPlayer/app/src/main/res/layout/item_layout_text.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/emang/AndroidStudioProjects/AutoVideoPlayer/app/src/main/res/layout/item_layout_video.xml" value="0.1" />
+        <entry key="..\:/Users/emang/AppData/Local/Android/Sdk/platforms/android-33/data/res/layout/activity_list_item.xml" value="0.17552083333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
